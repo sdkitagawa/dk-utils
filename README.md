@@ -1,2 +1,4 @@
-# dk-utils
-Repository store some stuff that may be useful to me in daily situations
+# DK Utils
+### A nothing complex repository created with the objective to store some basic solutions using Python that might be useful to myself in daily situations.
+
+> 🦗🎶 Cricket sounds ~ 
