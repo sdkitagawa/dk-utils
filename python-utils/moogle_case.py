@@ -3,7 +3,7 @@
  *
  * @Date: 03-10-2024
  *
- * @File: string_slayer_scorekeeper_space_edition.py
+ * @File: moogle_case.py
  *
  * @Brief: A function to quickly lowercase characters.
  *
