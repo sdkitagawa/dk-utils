@@ -27,5 +27,5 @@ def whitespace_warrior(input_string):
 
 # How to use it
 input_string = input("Enter your string: ")
-finalString = whitespace_warrior(input_string)
-print("Here's your modified string: ", finalString)
+output_string = whitespace_warrior(input_string)
+print("Here's your modified string: ", output_string)
